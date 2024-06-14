@@ -4,7 +4,7 @@ return [
     'driver' => env('TRANSLATE_DRIVER', 'niu'),
 
     'niu' => [
-        'api_key' => env('NIU_API_KEY', '1989ea8c47368fbc6aad114e0c30c289'),
+        'api_key' => env('NIU_API_KEY', ''),
     ],
 
     'iflytek' => [
